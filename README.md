@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    background-image: url('media/icons/kosmos-zvezdy-nebula.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    color: #ffffff;
-  }
-</style>
-</head>
-<body>
-
 ### :frog: Всем привет! Меня зовут Евгений :frog:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
@@ -70,6 +54,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egolikov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egolikov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egolikov&theme=solarized_dark)
-
-</body>
-</html>
