@@ -3,7 +3,7 @@
 <head>
 <style>
   body {
-    background-image: url('kosmos-zvezdy-nebula.jpg')
+    background-image: url('media/icons/kosmos-zvezdy-nebula.jpg')
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
