@@ -38,15 +38,15 @@
   
 ## Мои проекты:
 
-### :heavy_check_mark: Проект по автоматизации UI тестирования сайта Бауцентр
+### :fire: Проект по автоматизации UI тестирования сайта Бауцентр
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=baucenter-product-autotests)](https://github.com/egolikov/baucenter-product-autotests)
 
-### :heavy_check_mark: Проект по автомазиации API тестирования сервиса reqres.in
+### :fire: Проект по автомазиации API тестирования сервиса reqres.in
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=reqresin-product-autotests)](https://github.com/egolikov/reqresin-product-autotests)
 
-### :heavy_check_mark: Проект по автоматизации Mobile тестирования приложения Wikipedia
+### :fire: Проект по автоматизации Mobile тестирования приложения Wikipedia
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=wikipedia-product-autotests)](https://github.com/egolikov/wikipedia-product-autotests)
 

@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d94f022-9dbd-4fe1-bee6-0313b3290114" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-profile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Allure.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Allure_TO.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Appium.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Browserstack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Gradle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Java.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Jenkins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Jira.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Junit5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/RestAssured.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Selenide.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/icons/Selenoid.svg" afterDir="false" />
+    <list default="true" id="1d94f022-9dbd-4fe1-bee6-0313b3290114" name="Changes" comment="*UPD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Evgeniy/IdeaProjects/main-profile"
+    "last_opened_file_path": "C:/Users/Evgeniy/IdeaProjects/wikipedia-product-autotests"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,6 +45,18 @@
       <option name="presentableId" value="Default" />
       <updated>1698589143955</updated>
     </task>
+    <task id="LOCAL-00001" summary="*UPD">
+      <created>1698589932403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698589932403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="*UPD" />
+    <option name="LAST_COMMIT_MESSAGE" value="*UPD" />
   </component>
 </project>
