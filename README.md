@@ -3,7 +3,7 @@
 <head>
 <style>
   body {
-    background-image: url('media/icons/kosmos-zvezdy-nebula.jpg')
+    background-image: url('media/icons/kosmos-zvezdy-nebula.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -14,7 +14,7 @@
 </head>
 <body>
 
-### :frog: Всем привет! Меня зовут Евгений :frog: 
+### :frog: Всем привет! Меня зовут Евгений :frog:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 
@@ -48,7 +48,6 @@
 <img width="5%" title="Browserstack" src="media/icons/Browserstack.svg">
 <img width="5%" title="RestAssured" src="media/icons/RestAssured.svg">
 <img width="5%" title="Jira" src="media/icons/Jira.svg">
-
 
 </p>
 
